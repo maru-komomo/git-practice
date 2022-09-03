@@ -6,3 +6,4 @@ new-featureブランチで変更
 こっちだけ変えたはずなのに
 Once more again
 Automatic merge体験22222
+こっちではMainを変更
